@@ -1,0 +1,26 @@
+{
+  "name": "salesbot",
+  "version": "1.0.0",
+  "description": "Users DM this bot, and it will search the web to let you know if you should sell something or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunstroUS/SalesBot.git"
+  },
+  "keywords": [
+    "Streetwear",
+    "Sales",
+    "AI",
+    "Bot",
+    "Discord"
+  ],
+  "author": "Sunstro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SunstroUS/SalesBot/issues"
+  },
+  "homepage": "https://github.com/SunstroUS/SalesBot#readme"
+}
