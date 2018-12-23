@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/SunstroUS/SalesBot/issues"
   },
-  "homepage": "https://github.com/SunstroUS/SalesBot#readme"
+  "homepage": "https://github.com/SunstroUS/SalesBot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
 }
